@@ -1,0 +1,6 @@
+bleak
+pyqtgraph
+numpy
+scipy
+PyQt5; sys_platform != "win32"
+PySide6; sys_platform == "win32"
